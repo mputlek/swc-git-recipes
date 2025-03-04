@@ -3,5 +3,6 @@
 ## Ingredients
 - Avocado
 - Lemon
+- Salt
 
 ## Instrutions
